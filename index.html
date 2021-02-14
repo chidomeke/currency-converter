@@ -1,0 +1,77 @@
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Currency Converter</title>
+        <link rel="stylesheet" href="fx.css">
+    </head>
+    <body>
+
+    <h1>Amazing Currency Converter</h1>
+    <p>
+        Convert
+        <input type="number" id="original-currency-amount" placeholder="1" min="1" required></input>
+        <select id="original-country">
+            <option value="">Select country currency</option>
+            <option value="Algeria">Algerian dinar, DZD</option>
+            <option value="australia">Australian dollar,AUD</option>
+            <option value="china">Yuan, CNY</option>
+            <option value="egypt">Egyptian pound, EGP</option>
+            <option value="india">Indian rupee, INR</option>
+            <option value="japan">Japanese yen, JPY</option>
+            <option value="nigeria">Nigerian naira, NGN</option>
+            <option value="south africa">South African rand, ZAR</option>
+            <option value="spain">Euro, EUR</option>
+            <option value="switzerland">Switzerland</option>
+            <option value="united arab emirates">United Arab Emirates</option>
+            <option value="united kingdom">United Kingdom</option>
+            <option value="united states of america">United States of America</option>
+        </select>
+    or
+        <input type="text" id="original-currency-unit" placeholder="Enter country." required></input> 
+   to
+        <select id="new-country">
+            <option value="">Select country currency</option>
+            <option value="Algeria">Algerian dinar, DZD</option>
+            <option value="australia">Australian dollar,AUD</option>
+            <option value="china">Yuan, CNY</option>
+            <option value="egypt">Egyptian pound, EGP</option>
+            <option value="india">Indian rupee, INR</option>
+            <option value="japan">Japanese yen, JPY</option>
+            <option value="nigeria">Nigerian naira, NGN</option>
+            <option value="south africa">South African rand, ZAR</option>
+            <option value="spain">Euro, EUR</option>
+            <option value="switzerland">Switzerland</option>
+            <option value="united arab emirates">United Arab Emirates</option>
+            <option value="united kingdom">United Kingdom</option>
+            <option value="united states of america">United States of America</option>
+        </select>
+    or
+        <input type="text" id="new-currency-unit" placeholder="Enter country" required></input>
+    </p>
+    <p>
+        Exchange Rate:
+        <input type="number" id="exchange-rate"></input>
+    </p>
+    <button>Exchange my money now!</button>
+    <p id="output-text">
+        Converted 💰 will appear here.
+    </p>
+    <div class="error-output"></div>
+
+    <script src="fx.js"></script>
+    </body>
+</html>
+
+<!--Currency Converter widget - HTML code - fx-rate.net 
+<div style="width: 215px; border:1px solid #000;background-color:#fff;align:center;text-align:center;padding: 0px;margin: 0px;overflow:hidden;">
+    <div style="text-align:center;font-size:12px; line-height:16px;font-family: arial;color:#173a00; font-weight:bold;background:#c5e554;padding: 3px 1px">
+        <a href="https://fx-rate.net/EUR/" title="Euro Exchange Rate" style="text-decoration:none;color:#173a00;font-size:12px; line-height:16px;font-family: arial;">
+            <img border="" width="16" height="11" style="margin:0;padding:0;border:0;" src = "https://fx-rate.net/images/countries/eu.png">
+            </img> 
+            &#160;&#160; Euro Exchange Rate
+        </a>
+    </div>
+    <script type="text/javascript" src="https://fx-rate.net/fx-rates.php?currency=EUR&length=long&label_type=currency_name"></script>
+</div>
+end of code-->

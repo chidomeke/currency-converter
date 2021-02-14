@@ -1,0 +1,1007 @@
+[
+    {
+        "name":["Abkhazia", "Russia", "South Ossetia"],
+        "iso_currency_code":"RUB",
+        "currency":"Russian Ruble",
+        "symbol":"₽"
+    },
+    {
+        "name":["Afghanistan"],
+        "iso_currency_code":"AFN",
+        "currency":"Afghan afghani",
+        "symbol":"؋"
+    },
+    {
+        "name":[
+            "Akrotiri and Dhekelia",
+            "Andorra",
+            "Austria",
+            "Belgium",
+            "Cyprus",
+            "Estonia",
+            "Finland",
+            "France",
+            "Germany",
+            "Greece",
+            "Ireland",
+            "Italy",
+            "Kosovo",
+            "Lativia",
+            "Luthuania",
+            "Luxemburg",
+            "Monaco",
+            "Montenegro",
+            "Netherlands",
+            "Portugal",
+            "San Marino",
+            "Slovakia",
+            "Slovenia",
+            "Spain",
+            "Holy See (Vatican City)"
+        ],
+        "iso_currency_code":"EUR",
+        "currency":"Euro",
+        "symbol":"€"
+    },
+    {
+        "name":["Albania"],
+        "iso_currency_code":"ALL",
+        "currency":"Albanian lek",
+        "symbol":"L"
+    },
+    {
+        "name":[
+            "Alderney",
+            "Guernsey",
+            "Isle of Man",
+            "Jersey",
+            "United Kingdom"
+        ],
+        "iso_currency_code":"GBP",
+        "currency":"British pound",
+        "symbol":"£"
+    },
+    {
+        "name":["Algeria"],
+        "iso_currency_code":"DZD",
+        "currency":"Algerian dinar",
+        "symbol":"د.ج"
+    },
+    {
+        "name":["Angola"],
+        "iso_currency_code":"AOA",
+        "currency":"Angolan kwanza",
+        "symbol":"Kz"
+    },
+    {
+        "name":[
+            "Anguilla",
+            "Antigua and Barbuda",
+            "Dominica",
+            "Grenada",
+            "Montserrat",
+            "Saint Kitts and Nevis",
+            "Saint Lucia",
+            "Saint Vincent and the Grenadines"
+        ],
+        "iso_currency_code":"XCD",
+        "currency":"Eastern Caribbean dollar",
+        "symbol":"$"
+    },
+    {
+        "name":["Argentina"],
+        "iso_currency_code":"ARS",
+        "currency":"Argentine peso",
+        "symbol":"$"
+    },
+    {
+        "name":["Armenia","Artsakh"],
+        "iso_currency_code":"AMD",
+        "currency":"Armenian dram",
+        "symbol":"դր."
+    },
+    {
+        "name":["Aruba"],
+        "iso_currency_code":"AWG",
+        "currency":"Aruban florin",
+        "symbol":"ƒ"
+    },
+    {
+        "name":["Ascension Island"],
+        "iso_currency_code":"SHP",
+        "currency":"Saint Helena Pound",
+        "symbol":"£"
+    },
+    {
+        "name":["Australia","Nauru","Tuvalu"],
+        "iso_currency_code":"AUD",
+        "currency":"Australian Dollar",
+        "symbol":"$"
+    },
+    {
+        "name":["Azerbaijan"],
+        "iso_currency_code":"AZN",
+        "currency":"Azerbaijani manat",
+        "symbol":"₼"
+    },
+    {
+        "name":["Bahamas"],
+        "iso_currency_code":"BSD",
+        "currency":"Bahamian dollar",
+        "symbol":"$"
+    },
+    {
+        "name":["Bahrain"],
+        "iso_currency_code":"BHD",
+        "currency":"Bahraini dinar",
+        "symbol":".د.ب"
+    },
+    {
+        "name":["Bangladesh"],
+        "iso_currency_code":"BDT",
+        "currency":"Bangladeshi taka",
+        "symbol":"৳"
+    },
+    {
+        "name":["Barbados"],
+        "iso_currency_code":"BBD",
+        "currency":"Barbadian dollar",
+        "symbol":"$"
+    },
+    {
+        "name":["Belarus"],
+        "iso_currency_code":"BYR",
+        "currency":"Belarusian ruble",
+        "symbol":"Br"
+    },
+    {
+        "name":["Belize"],
+        "iso_currency_code":"BZD",
+        "currency":"Belize dollar",
+        "symbol":"$"
+    },
+    {
+        "name":[
+            "Benin",
+            "Burkina Faso",
+            "Côte d'Ivoire",
+            "Guinea-Bissau",
+            "Mali",
+            "Niger",
+            "Senegal",
+            "Togo"
+        ],
+        "iso_currency_code":"XOF",
+        "currency":"West African CFA franc",
+        "symbol":"Fr"
+    },
+    {
+        "name":["Bhutan"],
+        "iso_currency_code":"BTN",
+        "currency":"Bhutanese ngultrum",
+        "symbol":"Nu."
+    },
+    {
+        "name":["Bolivia"],
+        "iso_currency_code":"BOB",
+        "currency":"Bolivian boliviano",
+        "symbol":"Bs."
+    },
+    {
+        "name":[
+            "Bonaire",
+            "British Indian Ocean Territory",
+            "British Virgin Islands",
+            "East Timor",
+            "Ecuador",
+            "El Salvador",
+            "Marshall Islands",
+            "Micronesia",
+            "Saba",
+            "Sint Eustatius",
+            "Turks and Caicos Islands",
+            "United States"
+        ],
+        "iso_currency_code":"USD",
+        "currency":"United State Dollars",
+        "symbol":"$"
+    },
+    {
+        "name":["Sint Maarten"],
+        "iso_currency_code":"ANG",
+        "currency":"Netherlands Antillean guilder",
+        "symbol":"ƒ"
+    },
+    {
+        "name":["Bosnia and Herzegovina"],
+        "iso_currency_code":"BAM",
+        "currency":"Bosnia and Herzegovina convertible mark",
+        "symbol":"КМ"
+    },
+    {
+        "name":["Bulgaria"],
+        "iso_currency_code":"BGN",
+        "currency":"Bulgarian lev",
+        "symbol":"лв."
+    },
+    {
+        "name":["Burundi"],
+        "iso_currency_code":"BIF",
+        "currency":"Burundian franc",
+        "symbol":"Fr"
+    },
+    {
+        "name":["Bermuda"],
+        "iso_currency_code":"BMD",
+        "currency":"Bermudian dollar",
+        "symbol":"$"
+    },
+    {
+        "name":["Brunei"],
+        "iso_currency_code":"BND",
+        "currency":"Brunei dollar",
+        "symbol":"$"
+    },
+    {
+        "name":["Brazil"],
+        "iso_currency_code":"BRL",
+        "currency":"Brazilian real",
+        "symbol":"R$"
+    },
+    {
+        "name":["Botswana"],
+        "iso_currency_code":"BWP",
+        "currency":"Botswana pula",
+        "symbol":"P"
+    },
+    {
+        "name":["Canada"],
+        "iso_currency_code":"CAD",
+        "currency":"Canadian Dollar",
+        "symbol":"$"
+    },
+    {
+        "name":["Democratic Republic of the Congo"],
+        "iso_currency_code":"CDF",
+        "currency":"Congolese franc",
+        "symbol":"Fr"
+    },
+    {
+        "name":["Liechtenstein","Switzerland"],
+        "iso_currency_code":"CHF",
+        "currency":"Swiss franc",
+        "symbol":"Fr."
+    },
+    {
+        "name":["Chile"],
+        "iso_currency_code":"CLP",
+        "currency":"Chilean peso",
+        "symbol":"$"
+    },
+    {
+        "name":["China"],
+        "iso_currency_code":"CNY",
+        "currency":"Chinese yuan",
+        "symbol":"¥ "
+    },
+    {
+        "name":["Colombia"],
+        "iso_currency_code":"COP",
+        "currency":"Colombian peso",
+        "symbol":"$"
+    },
+    {
+        "name":["Costa Rica"],
+        "iso_currency_code":"CRC",
+        "currency":"Costa Rican colón",
+        "symbol":"₡"
+    },
+    {
+        "name":["Cuba"],
+        "iso_currency_code":"CUP",
+        "currency":"Cuban peso",
+        "symbol":"$"
+    },
+    {
+        "name":["Cabo Verde"],
+        "iso_currency_code":"CVE",
+        "currency":"Cape Verdean escudo",
+        "symbol":"Esc or $"
+    },
+    {
+        "name":["Czechia (Czech Republic)"],
+        "iso_currency_code":"CZK",
+        "currency":"Czech koruna",
+        "symbol":"Kč"
+    },
+    {
+        "name":["Djibouti"],
+        "iso_currency_code":"DJF",
+        "currency":"Djiboutian franc",
+        "symbol":"Fr"
+    },
+    {
+        "name":["Denmark","Faroe Islands"],
+        "iso_currency_code":"DKK",
+        "currency":"Danish krone",
+        "symbol":"kr"
+    },
+    {
+        "name":["Dominican Republic"],
+        "iso_currency_code":"DOP",
+        "currency":"Dominican peso",
+        "symbol":"RD$"
+    },
+    {
+        "name":["Egypt"],
+        "iso_currency_code":"EGP",
+        "currency":"Egyptian pound",
+        "symbol":"£ or ج.م"
+    },
+    {
+        "name":["Eritrea"],
+        "iso_currency_code":"ERN",
+        "currency":"Eritrean nakfa",
+        "symbol":"Nfk"
+    },
+    {
+        "name":["Ethiopia"],
+        "iso_currency_code":"ETB",
+        "currency":"Ethiopian birr",
+        "symbol":"Br"
+    },
+    {
+        "name":["Fiji"],
+        "iso_currency_code":"FJD",
+        "currency":"Fijian dollar",
+        "symbol":"$"
+    },
+    {
+        "name":["Falkland Islands"],
+        "iso_currency_code":"FKP",
+        "currency":"Falkland Islands pound",
+        "symbol":"£"
+    },
+    {
+        "name":["Georgia"],
+        "iso_currency_code":"GEL",
+        "currency":"Georgian lari",
+        "symbol":"₾"
+    },
+    {
+        "name":["Ghana"],
+        "iso_currency_code":"GHS",
+        "currency":"Ghanaian cedi",
+        "symbol":"₵"
+    },
+    {
+        "name":["Gibraltar"],
+        "iso_currency_code":"GIP",
+        "currency":"Gibralta",
+        "symbol":"£"
+    },
+    {
+        "name":["Gambia"],
+        "iso_currency_code":"GMD",
+        "currency":"Gambian dalasi",
+        "symbol":"D"
+    },
+    {
+        "name":["Guinea"],
+        "iso_currency_code":"GNF",
+        "currency":"Guinea franc",
+        "symbol":"Fr"
+    },
+    {
+        "name":["Guatemala"],
+        "iso_currency_code":"GTQ",
+        "currency":"Guatemalan quetzal",
+        "symbol":"Q"
+    },
+    {
+        "name":["Guyana"],
+        "iso_currency_code":"GYD",
+        "currency":"Guyanese dollar",
+        "symbol":"$"
+    },
+    {
+        "name":["Hong Kong"],
+        "iso_currency_code":"HKD",
+        "currency":"Hong Kong Dollar",
+        "symbol":"$"
+    },
+    {
+        "name":["Honduras"],
+        "iso_currency_code":"HNL",
+        "currency":"Honduran lempira",
+        "symbol":"L"
+    },
+    {
+        "name":["Croatia"],
+        "iso_currency_code":"HRK",
+        "currency":"Croatian kuna",
+        "symbol":"kn"
+    },
+    {
+        "name":["Haiti"],
+        "iso_currency_code":"HTG",
+        "currency":"Haitian gourde",
+        "symbol":"G"
+    },
+    {
+        "name":["Hungary"],
+        "iso_currency_code":"HUF",
+        "currency":"Hungarian forint",
+        "symbol":"Ft"
+    },
+    {
+        "name":["Indonesia"],
+        "iso_currency_code":"IDR",
+        "currency":"Indonesian rupiah",
+        "symbol":"Rp"
+    },
+    {
+        "name":["Israel"],
+        "iso_currency_code":"ILS",
+        "currency":"Israeli new shekel",
+        "symbol":"₪"
+    },
+    {
+        "name":["India"],
+        "iso_currency_code":"INR",
+        "currency":"Indian rupee",
+        "symbol":"₹"
+    },
+    {
+        "name":["Iraq"],
+        "iso_currency_code":"IQD",
+        "currency":"Iraqi dinar",
+        "symbol":"ع.د"
+    },
+    {
+        "name":["Iran"],
+        "iso_currency_code":"IRR",
+        "currency":"Iranian rial",
+        "symbol":"﷼"
+    },
+    {
+        "name":["Iceland"],
+        "iso_currency_code":"ISK",
+        "currency":"Icelandic króna",
+        "symbol":"Kr"
+    },
+    {
+        "name":["Jamaica"],
+        "iso_currency_code":"JMD",
+        "currency":"Jamaican dollar",
+        "symbol":"$"
+    },
+    {
+        "name":["Jordan","Palestine State"],
+        "iso_currency_code":"JOD",
+        "currency":"Jordanian dinar",
+        "symbol":"د.ا"
+    },
+    {
+        "name":["Japan"],
+        "iso_currency_code":"JPY",
+        "currency":"Japanese yen",
+        "symbol":"¥"
+    },
+    {
+        "name":["Kenya"],
+        "iso_currency_code":"KES",
+        "currency":"Kenyan shilling",
+        "symbol":"Sh"
+    },
+    {
+        "name":["Kyrgyzstani"],
+        "iso_currency_code":"KGS",
+        "currency":"Kyrgyzstani som",
+        "symbol":"с"
+    },
+    {
+        "name":["Cambodia"],
+        "iso_currency_code":"KHR",
+        "currency":"Riel",
+        "symbol":"៛"
+    },
+    {
+        "name":["Comoros"],
+        "iso_currency_code":"KMF",
+        "currency":"Comorian franc",
+        "symbol":"Fr"
+    },
+    {
+        "name":["North Korea"],
+        "iso_currency_code":"KPW",
+        "currency":"North Korea won",
+        "symbol":"₩"
+    },
+    {
+        "name":["South Korean"],
+        "iso_currency_code":"KRW",
+        "currency":"South Korean won",
+        "symbol":"₩"
+    },
+    {
+        "name":["Kuwait"],
+        "iso_currency_code":"KWD",
+        "currency":"Kuwaiti dinar",
+        "symbol":"د.ك"
+    },
+    {
+        "name":["Cayman Islands"],
+        "iso_currency_code":"KYD",
+        "currency":"Cayman Islands dollar",
+        "symbol":"$"
+    },
+    {
+        "name":["Kazakhstan"],
+        "iso_currency_code":"KZT",
+        "currency":"Kazakhstani tenge",
+        "symbol":"₸"
+    },
+    {
+        "name":["Laos"],
+        "iso_currency_code":"LAK",
+        "currency":"Lao kip",
+        "symbol":"₭"
+    },
+    {
+        "name":["Lebanon"],
+        "iso_currency_code":"LBP",
+        "currency":"Lebanese pound",
+        "symbol":"ل.ل"
+    },
+    {
+        "name":["Sri Lanka"],
+        "iso_currency_code":"LKR",
+        "currency":"Sri Lankan rupee",
+        "symbol":"Rs"
+    },
+    {
+        "name":["Liberia"],
+        "iso_currency_code":"LRD",
+        "currency":"Liberian dollar",
+        "symbol":"$"
+    },
+    {
+        "name":["Lesotho"],
+        "iso_currency_code":"LSL",
+        "currency":"Lesotho loti",
+        "symbol":"L"
+    },
+    {
+        "name":["Libya"],
+        "iso_currency_code":"LYD",
+        "currency":"Libyan dinar",
+        "symbol":"ل.د"
+    },
+    {
+        "name":["Morocco"],
+        "iso_currency_code":"MAD",
+        "currency":"Moroccan dirham",
+        "symbol":"د.م."
+    },
+    {
+        "name":["Moldova"],
+        "iso_currency_code":"MDL",
+        "currency":"Moldovan leu",
+        "symbol":"L"
+    },
+    {
+        "name":["Madagascar"],
+        "iso_currency_code":"MGA",
+        "currency":"Malagasy ariary",
+        "symbol":"Ar"
+    },
+    {
+        "name":["North Macedonia"],
+        "iso_currency_code":"MKD",
+        "currency":"Macedonian denar",
+        "symbol":"ден"
+    },
+    {
+        "name":["Myanmar"],
+        "iso_currency_code":"MMK",
+        "currency":"Burmese kyat",
+        "symbol":"K"
+    },
+    {
+        "name":["Mongolia"],
+        "iso_currency_code":"MNT",
+        "currency":"Mongolian tögrög",
+        "symbol":"₮"
+    },
+    {
+        "name":["Macau"],
+        "iso_currency_code":"MOP",
+        "currency":"Macanese pataca",
+        "symbol":"MOP$"
+    },
+    {
+        "name":["Mauritania"],
+        "iso_currency_code":"MRU",
+        "currency":"Mauritanian ouguiya",
+        "symbol":"UM"
+    },
+    {
+        "name":["Mauritius"],
+        "iso_currency_code":"MUR",
+        "currency":"Mauritian rupee",
+        "symbol":"Rs"
+    },
+    {
+        "name":["Maldives"],
+        "iso_currency_code":"MVR",
+        "currency":"Maldivian rufiyaa",
+        "symbol":".ރ"
+    },
+    {
+        "name":["Malawi"],
+        "iso_currency_code":"MWK",
+        "currency":"Malawian kwacha",
+        "symbol":"MK"
+    },
+    {
+        "name":["Mexico"],
+        "iso_currency_code":"MXN",
+        "currency":"Mexican peso",
+        "symbol":"$"
+    },
+    {
+        "name":["Mozambique"],
+        "iso_currency_code":"MZN",
+        "currency":"Mozambican metical",
+        "symbol":"MT"
+    },
+    {
+        "name":["Namibia"],
+        "iso_currency_code":"NAD",
+        "currency":"Namibian dollar",
+        "symbol":"$"
+    },
+    {
+        "name":["Nigeria"],
+        "iso_currency_code":"NGN",
+        "currency":"Nigerian naira",
+        "symbol":"₦"
+    },
+    {
+        "name":["Nicaragua"],
+        "iso_currency_code":"NIO",
+        "currency":"Nicaraguan córdoba",
+        "symbol":"C$"
+    },
+    {
+        "name":["Norway"],
+        "iso_currency_code":"NOK",
+        "currency":"Norwegian krone",
+        "symbol":"kr"
+    },
+    {
+        "name":["Nepal"],
+        "iso_currency_code":"NPR",
+        "currency":"Nepalese rupee",
+        "symbol":"रू"
+    },
+    {
+        "name":["Cooks Island","New Zealand","Niue"],
+        "iso_currency_code":"NZD",
+        "currency":"New Zealand dollar",
+        "symbol":"$"
+    },
+    {
+        "name":["Oman"],
+        "iso_currency_code":"OMR",
+        "currency":"Omani rial",
+        "symbol":"ر.ع."
+    },
+    {
+        "name":["Panama"],
+        "iso_currency_code":"PAB",
+        "currency":"Panamanian balboa",
+        "symbol":"B/."
+    },
+    {
+        "name":["Peru"],
+        "iso_currency_code":"PEN",
+        "currency":"Peruvian sol",
+        "symbol":"S/."
+    },
+    {
+        "name":["Papua New Guinean"],
+        "iso_currency_code":"PGK",
+        "currency":"Papua New Guinean kina",
+        "symbol":"K"
+    },
+    {
+        "name":["Philippines"],
+        "iso_currency_code":"PHP",
+        "currency":"Philippine peso",
+        "symbol":"₱"
+    },
+    {
+        "name":["Pakistan"],
+        "iso_currency_code":"PKR",
+        "currency":"Pakistani rupee",
+        "symbol":"Rs"
+    },
+    {
+        "name":["Poland"],
+        "iso_currency_code":"PLN",
+        "currency":"Polish złoty",
+        "symbol":"zł"
+    },
+    {
+        "name":["Paraguay"],
+        "iso_currency_code":"PYG",
+        "currency":"Paraguayan guaraní",
+        "symbol":"₲"
+    },
+    {
+        "name":["Qatar"],
+        "iso_currency_code":"QAR",
+        "currency":"Qatari riyal",
+        "symbol":"ر.ق"
+    },
+    {
+        "name":["Romania"],
+        "iso_currency_code":"RON",
+        "currency":"Romanian leu",
+        "symbol":"lei"
+    },
+    {
+        "name":["Serbia"],
+        "iso_currency_code":"RSD",
+        "currency":"Serbian dinar",
+        "symbol":"дин."
+    },
+    {
+        "name":["Rwanda"],
+        "iso_currency_code":"RWF",
+        "currency":"Rwandan franc",
+        "symbol":"Fr"
+    },
+    {
+        "name":["Saudi Arabia"],
+        "iso_currency_code":"SAR",
+        "currency":"Saudi riyal",
+        "symbol":"﷼"
+    },
+    {
+        "name":["Solomon Islands"],
+        "iso_currency_code":"SBD",
+        "currency":"Solomon Islands dollar",
+        "symbol":"$"
+    },
+    {
+        "name":["Seychelles"],
+        "iso_currency_code":"SCR",
+        "currency":"Seychellois rupee",
+        "symbol":"Rs"
+    },
+    {
+        "name":["Singapore"],
+        "iso_currency_code":"SGD",
+        "currency":"Singapore dollar",
+        "symbol":"$"
+    },
+    {
+        "name":["Sweden"],
+        "iso_currency_code":"SEK",
+        "currency":"Swedish krona",
+        "symbol":"Kr"
+    },
+    {
+        "name":["Sudan"],
+        "iso_currency_code":"SGD",
+        "currency":"Sudanese pound",
+        "symbol":"ج.س."
+    },
+    {
+        "name":["Sierra Leone"],
+        "iso_currency_code":"SLL",
+        "currency":"Sierra Leonean leone",
+        "symbol":"Le"
+    },
+    {
+        "name":["Somalia"],
+        "iso_currency_code":"SOS",
+        "currency":"Somali shilling",
+        "symbol":"Sh"
+    },
+    {
+        "name":["Suriname"],
+        "iso_currency_code":"SRD",
+        "currency":"Surinamese dollar",
+        "symbol":"$"
+    },
+    {
+        "name":["South Sudan"],
+        "iso_currency_code":"SSP",
+        "currency":"South Sudanese pound",
+        "symbol":"£"
+    },
+    {
+        "name":["São Tomé and Príncipe"],
+        "iso_currency_code":"STN",
+        "currency":"São Tomé and Príncipe dobra",
+        "symbol":"Db"
+    },
+    {
+        "name":["El Savador"],
+        "iso_currency_code":"SVC",
+        "currency":"El savador colon",
+        "symbol":"₡"
+    },
+    {
+        "name":["Syria"],
+        "iso_currency_code":"SYP",
+        "currency":"Syrian pound",
+        "symbol":"ل.س"
+    },
+    {
+        "name":["Eswatini (fmr. 'Swaziland')"],
+        "iso_currency_code":"SZL",
+        "currency":"Swazi lilangeni",
+        "symbol":"L"
+    },
+    {
+        "name":["Thailand"],
+        "iso_currency_code":"THB",
+        "currency":"Thai baht",
+        "symbol":"฿"
+    },
+    {
+        "name":["Tajikistan"],
+        "iso_currency_code":"TJS",
+        "currency":"Tajikistani somoni",
+        "symbol":"SM"
+    },
+    {
+        "name":["Turkmenistan"],
+        "iso_currency_code":"TMT",
+        "currency":"Turkmenistan manat",
+        "symbol":"m"
+    },
+    {
+        "name":["Tunisia"],
+        "iso_currency_code":"TND",
+        "currency":"Tunisian dinar",
+        "symbol":"د.ت"
+    },
+    {
+        "name":["Tonga"],
+        "iso_currency_code":"TOP",
+        "currency":"Tongan paʻanga",
+        "symbol":"T$"
+    },
+    {
+        "name":["Northern Cyprus","Turkey"],
+        "iso_currency_code":"TRY",
+        "currency":"Turkish lira",
+        "symbol":"₺"
+    },
+    {
+        "name":["Trinidad and Tobago"],
+        "iso_currency_code":"TTD",
+        "currency":"Trinidad and Tobago dollar",
+        "symbol":"$"
+    },
+    {
+        "name":["Taiwan"],
+        "iso_currency_code":"TWD",
+        "currency":"New Taiwan dollar",
+        "symbol":"$"
+    },
+    {
+        "name":["Tanzania"],
+        "iso_currency_code":"TZS",
+        "currency":"Tanzanian shilling",
+        "symbol":"Sh"
+    },
+    {
+        "name":["Ukrain"],
+        "iso_currency_code":"UAH",
+        "currency":"Ukrainian hryvnia",
+        "symbol":"₴"
+    },
+    {
+        "name":["Uganda"],
+        "iso_currency_code":"UGX",
+        "currency":"Ugandan shilling",
+        "symbol":"Sh"
+    },
+    {
+        "name":["Uruguay"],
+        "iso_currency_code":"UYU",
+        "currency":"peso Uruguayo",
+        "symbol":"$"
+    },
+    {
+        "name":["Uzbekistan"],
+        "iso_currency_code":"UZS",
+        "currency":"Uzbekistani soʻm",
+        "symbol":"сўм"
+    },
+    {
+        "name":["Venezuela"],
+        "iso_currency_code":"VEF",
+        "currency":"Venezuelan bolívar soberano",
+        "symbol":"Bs."
+    },
+    {
+        "name":["Vietnam"],
+        "iso_currency_code":"VND",
+        "currency":"Vietnamese đồng",
+        "symbol":"₫"
+    },
+    {
+        "name":["Vanuatu"],
+        "iso_currency_code":"VUV",
+        "currency":"Vanuatu vatu",
+        "symbol":"Vt"
+    },
+    {
+        "name":["Samoa"],
+        "iso_currency_code":"WST",
+        "currency":"Samoan tālā",
+        "symbol":"T"
+    },
+    {
+        "name":[
+            "Cameroon",
+            "Central African Republic",
+            "Chad",
+            "Equitorial Guinea",
+            "Gabon"
+        ],
+        "iso_currency_code":"XAF",
+        "currency":"Central African CFA franc",
+        "symbol":"Fr"
+    },
+    {
+        "name":["INTERNATIONAL MONETARY FUND (IMF)"],
+        "iso_currency_code":"XDR",
+        "currency":"SDR",
+        "symbol":""
+    },
+    {
+        "name":["French Polynesia","New Caledonia","Wallis and Futuna"],
+        "iso_currency_code":"XPF",
+        "currency":"CFP franc",
+        "symbol":"₣"
+    },
+    {
+        "name":["Yemen"],
+        "iso_currency_code":"YER",
+        "currency":"Yemeni rial",
+        "symbol":"ر.ي"
+    },
+    {
+        "name":["South Africa"],
+        "iso_currency_code":"ZAR",
+        "currency":"South African rand",
+        "symbol":"R"
+    },
+    {
+        "name":["Zambia"],
+        "iso_currency_code":"ZMW",
+        "currency":"Zambian kwacha",
+        "symbol":"ZK"
+    },
+    {
+        "name":["Zimbabwe"],
+        "iso_currency_code":"ZWL",
+        "currency":"Zimbabwean Dollar",
+        "symbol":"$"
+    },
+    {
+        "name":["United Arab Emirate"],
+        "iso_currency_code":"AED",
+        "currency":"United Arab Emirates dirham",
+        "symbol":"د.إ"
+    }
+]
