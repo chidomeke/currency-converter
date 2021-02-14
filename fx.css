@@ -1,0 +1,81 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+p, ul {
+	width: 300px;
+	margin: 10px auto;
+}
+
+ul {text-align: left;}
+
+#output-text {
+	width: 400px;
+}
+
+p  span {
+	border: 2px solid black;
+	border-radius: 5px;
+	width: 100px;
+	height: 35px;
+	line-height: 1.2;
+	padding: 5px;
+	margin: 0;
+}
+
+p  span:nth-child(2) {
+	font-size: 22px;
+	line-height: 1.2;
+	border: none;
+}
+
+input, select {
+	display: block;
+	width: 100%;
+	height: 30px;
+	font-size: 20px;
+    margin: 5px auto;
+	border-radius: 5px;
+	box-sizing: border-box;
+	box-shadow: insert 1px 1px 1px #ccc;
+}
+
+select {
+	width: 100%;
+	overflow: auto;
+}
+
+input:required, input:invalid {
+	border: 2px solid red;
+}
+
+input:valid {
+	border: 2px solid black;
+}
+
+input:focus, input:hover,
+button:focus, button:hover,
+select:focus, select:hover {
+	outline: none;
+	background-color: #eee;
+}
+
+button:focus, button:hover {
+	background-color: green;
+	opacity: .88;
+}
+
+
+button {
+	width: 300px;
+	height: 40px;
+	font-size: 20px;
+	background-color: green;
+	border-radius: 10px;
+}
