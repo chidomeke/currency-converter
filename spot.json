@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "effective_params": {
+            "data_set": "OANDA",
+            "base_currencies": [
+            "EUR"
+            ],
+            "quote_currencies": [
+            "USD"
+            ],
+            "date_time": "2017-01-01T00:00:00+00:00"
+        },
+        "endpoint": "spot",
+        "request_time": "2017-01-20T03:45:00+00:00",
+        "skipped_currency_pairs": []
+    },
+    "quotes": [
+        {
+            "base_currency": "EUR",
+            "quote_currency": "USD",
+            "date_time": "2017-01-01T00:00:00+00:00",
+            "bid": "1.05155",
+            "ask": "1.05252",
+            "midpoint": "1.05204"
+        }
+    ]
+}
